@@ -17,7 +17,7 @@ app.use(
 app.options('*', cors());
 app.get('/',(req,res)=>{
     console.log(req.body)
-    res.send("<h1>IPL ECONOMY DATA SERVER<h1> <p> /economy to see top 10 economical bowlers each year </p> <p>/economy/year  year=> 2010-2019  to see top 10 economical bowler of that year</p>")
+    res.send("<h1>IPL ECONOMY DATA SERVER</h1> <p> /economy to see top 10 economical bowlers each year </p> <p>/economy/year  year=> 2010-2019  to see top 10 economical bowler of that year</p>")
 })
 
 
