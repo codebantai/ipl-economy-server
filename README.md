@@ -33,7 +33,7 @@ npm install
 **6: Prepare data**
 
 ```
-npm run ipl
+npm run economy
 ```
 
 **7: Start server**
