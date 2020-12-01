@@ -1,5 +1,7 @@
 # ipl_economy_data_server
 Top 10 economical bowlers in ipl each year
+#DEMO : https://ipl-economy-data-server.herokuapp.com/
+
 ## Install
 
 **1: Install Node**
@@ -43,7 +45,6 @@ npm run start
 ```
 
 **8: Visualize results on your browser**
-
 Open http://127.0.0.1:8080
 Open http://127.0.0.1:8080/economy to display json data of top 10 economical bowlers each year
 ---
