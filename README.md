@@ -1,6 +1,6 @@
 # ipl_economy_data_server
 Top 10 economical bowlers in ipl each year
-#DEMO : https://ipl-economy-data-server.herokuapp.com/
+# DEMO : https://ipl-economy-data-server.herokuapp.com/
 
 ## Install
 
